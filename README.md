@@ -3,7 +3,6 @@
 - 📈 [Sobre o projeto](#about)
 - 🤖 [Tecnologias](#technologies)
 - 🧑‍🔧[Dependências](#dependencies)
-- 💻[Funcionamento](#operation)
 
 <h2 id="about">📈 Sobre o projeto</h2> 
 
